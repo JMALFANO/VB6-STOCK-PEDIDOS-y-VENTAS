@@ -1,0 +1,11 @@
+[DATOS]
+Nombre=JUAN MARTIN ALFANO
+Telefono=15 55 77 99 85 - 49237646
+Direccion=Cachimayo 1919
+Mail=juan.alfano@istea.com.ar
+Cuil=23-39185204-7
+
+[PEDIDOS]
+MR=1
+R0=5
+R1=0

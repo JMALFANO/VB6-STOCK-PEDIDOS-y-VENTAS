@@ -1,0 +1,6 @@
+[ROSCA]
+Cantidad=1
+[R0]
+R0=Laboratorio 1000
+[R1]
+R1=Laboratorio 500

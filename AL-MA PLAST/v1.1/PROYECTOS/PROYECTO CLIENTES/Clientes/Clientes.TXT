@@ -1,0 +1,5 @@
+[CLIENTES]
+CantClientes=2
+NombreCliente0=A
+NombreCliente1=B
+NombreCliente2=C

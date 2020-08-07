@@ -1,0 +1,15 @@
+[DATOS]
+Nombre=BRUNO MEDINA
+Telefono=15557844
+Direccion=a@aasdasd
+Mail=a@a.com
+Cuit=qweqwe
+Contacto=qweqweqwe
+Horarios=qweqw
+Comentarios=qweqwe
+saldo=0
+NumeroCliente=0
+[PEDIDOS]
+MR=1
+R0=2
+R1=2

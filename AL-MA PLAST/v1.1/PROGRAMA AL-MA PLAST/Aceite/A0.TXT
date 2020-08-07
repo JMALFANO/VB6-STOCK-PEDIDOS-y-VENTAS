@@ -1,0 +1,8 @@
+[A0]
+Nombre=Aceite 1000
+Gramaje=26
+Gramaje1=29
+Pico=Aceite
+Cantidad=125
+Stock=0
+Pedidas=0

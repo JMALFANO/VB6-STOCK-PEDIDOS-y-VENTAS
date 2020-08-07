@@ -1,0 +1,4 @@
+[CLIENTES]
+CantClientes=1
+NombreCliente0=A
+NombreCliente1=ER

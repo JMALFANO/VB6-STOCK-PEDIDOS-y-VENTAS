@@ -1,0 +1,7 @@
+[A1]
+Nombre=Cuadrada 500
+Gramaje=20
+Pico=Aceite
+Cantidad=200
+Stock=0
+Pedidas=0

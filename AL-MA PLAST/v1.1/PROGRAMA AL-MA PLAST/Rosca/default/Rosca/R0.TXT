@@ -1,0 +1,8 @@
+[R0]
+Nombre=Laboratorio 1000
+Gramaje=36
+Pico=Rosca
+Cantidad=100
+Stock=100
+Pedidas=0
+

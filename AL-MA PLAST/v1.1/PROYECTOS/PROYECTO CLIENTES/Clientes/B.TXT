@@ -1,0 +1,14 @@
+[DATOS]
+Nombre=B
+Telefono=1
+Direccion=2
+Mail=3
+Cuit=4
+Contacto=5
+Horarios=6
+Comentarios=7
+saldo=0
+NumeroCliente=1
+[PEDIDOS]
+MR=1
+R1=10

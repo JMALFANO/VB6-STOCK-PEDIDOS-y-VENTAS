@@ -1,0 +1,11 @@
+[DATOS]
+Nombre=C
+Telefono=A
+Direccion=B
+Mail=C
+Cuit=D
+Contacto=E
+Horarios=F
+Comentarios=G
+saldo=0
+NumeroCliente=2

@@ -1,0 +1,10 @@
+[R0]
+Nombre=Laboratorio 1000
+Gramaje=36
+Pico=Rosca
+Cantidad=100
+Stock=1000
+Pedidas=10
+[CLIENTES]
+CantClientes=0
+0=A

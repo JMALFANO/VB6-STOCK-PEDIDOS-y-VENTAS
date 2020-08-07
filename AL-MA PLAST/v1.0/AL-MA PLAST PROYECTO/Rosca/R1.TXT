@@ -1,0 +1,7 @@
+[R1]
+Nombre=Laboratorio 500
+Gramaje=28
+Pico=Rosca
+Cantidad=150
+Stock=0
+Pedidas=0

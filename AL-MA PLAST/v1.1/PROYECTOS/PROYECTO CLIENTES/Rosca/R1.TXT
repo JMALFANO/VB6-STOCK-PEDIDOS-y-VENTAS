@@ -1,0 +1,10 @@
+[R1]
+Nombre=Laboratorio 500
+Gramaje=28
+Pico=Rosca
+Cantidad=150
+Stock=500
+Pedidas=10
+[CLIENTES]
+CantClientes=0
+0=B
